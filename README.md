@@ -21,7 +21,7 @@ YmaxBoxA (float): Bottom-right row of the face bounding box A normalized with re
 XminBoxB (float): Top-left column of the face bounding box B normalized with respect to width.\
 YminBoxB (float): Top-left row of the face bounding box B normalized with respect to height.\
 XmaxBoxB (float): Bottom-right column of the face bounding box B normalized with respect to width.\
-YmaxBoxB (float): Bottom-right row of the face bounding box B normalized with respect to height.\
+YmaxBoxB (float): Bottom-right row of the face bounding box B normalized with respect to height.
 
 ## Dataset statistics
 This dataset is divided into two partitions:
