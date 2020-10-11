@@ -6,7 +6,7 @@ The dataset is released as CSV files. Each line in a CSV file corresponds to one
 
 Each image is specified using an image ID/url and two face bounding boxes (top-left and bottom-right coordinates).
 
-The Image URL only serves as a preview of the image, which can be removed from the public domain. Please access the image from [OpenImageV4](https://storage.googleapis.com/openimages/web/download_v4.html) based on the Image ID.
+The Image URL serves as a preview of the image. Please access the image from [OpenImageV4](https://storage.googleapis.com/openimages/web/download_v4.html) using Image ID if the original image is removed from the public domain.
 
 Each annotation is a boolean from the set {0, 1}. A value of 1 (0) means both faces are (not) looking at each other. 
 
@@ -24,8 +24,8 @@ XmaxBoxB (float): Bottom-right column of the face bounding box B normalized with
 YmaxBoxB (float): Bottom-right row of the face bounding box B normalized with respect to height.
 
 ## Dataset statistics
-This dataset is divided into two partitions:
-Train set (26410 samples):  train_data.csv 
+This dataset is divided into two partitions:\
+Train set (26410 samples):  train_data.csv \
 Test set (6659 samples):  test_data
 
 ## License
