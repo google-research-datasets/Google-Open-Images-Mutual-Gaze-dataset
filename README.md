@@ -1,4 +1,4 @@
-# Google-Open-Images-Mututal-Gaze-dataset
+# Google-Open-Images-Mutual-Gaze-dataset
 This dataset consists of images along with annotations that specify whether two faces in the photo are looking at each other. This dataset is intended to aid researchers working on topics related to social behavior, visual attention, etc.
 
 ## Dataset content
